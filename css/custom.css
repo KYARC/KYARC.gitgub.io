@@ -1,5 +1,13 @@
 #footer {
-    background: rgb(0, 12, 138);
+    background: #010188;
     padding: 50px 0;
-    color: #d9d9d9;
+    color: #ffffff;
   }
+
+#heading-breadcrumbs {
+    background: #0018A8;
+}
+
+html body div#all div#heading-breadcrumbs div.container div.row div.col-md-12 h1 {
+    color: gold;
+}
