@@ -1,13 +1,5 @@
-.box-image-text .image {
-  min-height: 190px;
-  max-height: 190px;
-}
-
-.box-image-text .image img {
-  max-height: 190px;
-  margin: auto;
-}
-
-.box-simple {
-  min-height: 230px;
-}
+#footer {
+    background: rgb(0, 12, 138);
+    padding: 50px 0;
+    color: #d9d9d9;
+  }
