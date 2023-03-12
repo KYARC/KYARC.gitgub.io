@@ -5,9 +5,21 @@
   }
 
 #heading-breadcrumbs {
-    background: #0018A8;
+    background: #010188;
 }
 
-html body div#all div#heading-breadcrumbs div.container div.row div.col-md-12 h1 {
-    color: gold;
+#heading-breadcrumbs > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1) {
+    color: #ffffff;
+}
+
+.jumbotron {
+    background: url('../img/carousel/eagle-falls.jpg') center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-carousel {
+    background: url('../img/carousel/eagle-falls.jpg') center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
